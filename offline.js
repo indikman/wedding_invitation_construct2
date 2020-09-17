@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1600274821,
+	"version": 1600315486,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,7 @@
 		"images/chamiraaiyasweddingart-sheet3.png",
 		"images/chamiraaiyasweddingart-sheet4.png",
 		"images/chamiraaiyasweddingart-sheet5.png",
+		"images/text4-sheet0.png",
 		"media/whole new world.ogg",
 		"icon-16.png",
 		"icon-32.png",
